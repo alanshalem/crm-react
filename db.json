@@ -4,7 +4,7 @@
       "nombre": "Alan",
       "empresa": "APPLE",
       "email": "alan@alan.com",
-      "telefono": "1234512345",
+      "telefono": "12345",
       "notas": "Notas de Alan",
       "id": 1
     },
@@ -12,9 +12,17 @@
       "nombre": "Juan",
       "empresa": "MICROSOFT",
       "email": "juan@juan.com",
-      "telefono": "1234554321",
-      "notas": "Juan de Microsoft",
+      "telefono": "12345",
+      "notas": "Notas de Juan",
       "id": 2
+    },
+    {
+      "nombre": "Mariana",
+      "empresa": "NETFLIX",
+      "email": "mariana@mariana.com",
+      "telefono": "12345",
+      "notas": "Notas de Mariana",
+      "id": 3
     }
   ]
 }
