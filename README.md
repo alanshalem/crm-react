@@ -1,4 +1,12 @@
 # _CRM-REACT_
+_CRM-REACT - STACK: REACT.JS
+
+[IR AHORA](https://crm-react-alanshalem.netlify.app/)
+## PREVIEW 🚀
+
+
+![CRM-REACT](https://raw.githubusercontent.com/alanshalem/crm-react/master/src/img/crm_react_screenshot.png)
+
 ## Para corregir el error de: 
 ```sh
 No se puede cargar el archivo ...\AppData\Roaming\npm\json-server.ps1 porque la ejecución de scripts está deshabilitada en este sistema.
