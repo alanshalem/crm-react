@@ -1,3 +1,20 @@
 {
-	"clientes": [{ "id": 1, "nombre": "Alan" }]
+  "clientes": [
+    {
+      "nombre": "Alan",
+      "empresa": "APPLE",
+      "email": "alan@alan.com",
+      "telefono": "1234512345",
+      "notas": "Notas de Alan",
+      "id": 1
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "MICROSOFT",
+      "email": "juan@juan.com",
+      "telefono": "1234554321",
+      "notas": "Juan de Microsoft",
+      "id": 2
+    }
+  ]
 }
