@@ -23,3 +23,12 @@ Ejecutamos el comando:
 json-server --watch db.json --port 4000
 ```
 Para levantar la base de datos en el puerto :4000 y escuchar por cambios.
+
+# .env.development.local
+```sh
+VITE_API_URL=http://localhost:4000/clientes
+```
+# .env.production.local
+```sh
+VITE_API_URL=https://my-json-server.typicode.com/alanshalem/crm-react/clientes
+```

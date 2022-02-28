@@ -5,6 +5,7 @@ import NuevoCliente from "./paginas/NuevoCliente";
 import EditarCliente from "./paginas/EditarCliente";
 import VerCliente from "./paginas/VerCliente";
 function App() {
+	// console.log(import.meta.env.VITE_API_URL);
 	return (
 		<BrowserRouter>
 			<Routes>
